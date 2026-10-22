@@ -63,13 +63,19 @@ AI-native senior developer building practical, scalable, and high-impact softwar
 
 <!-- START GENERATED CONTENT -->
 ## Recent Pull Requests
-{{recent_prs}}
+- [#532](https://github.com/Aboyeji-Isaac/StellarCore/pull/532) — test(api): add schema contract checks for public evidence API respons… (closed)
+- [#533](https://github.com/Aboyeji-Isaac/StellarCore/pull/533) — test(dashboard): verify dashboard panels recover after database outag… (closed)
+- [#1846](https://github.com/Streampay-Org/StreamPay-Frontend/pull/1846) — Fix/cors same origin (open)
+- [#1845](https://github.com/Streampay-Org/StreamPay-Frontend/pull/1845) — Test/unquarantine metrics (open)
+- [#455](https://github.com/David1984TK/Bimex/pull/455) — fix(indexer): validar parámetros de ruta y no ignorar errores parcial… (open)
 
 ## Recent Commits
-{{recent_commits}}
+- No recent commits found.
 
 ## Featured Projects
-{{featured_projects}}
+- [AI Workflow Project](https://github.com/amonehin/project-name) — Product or workflow that demonstrates AI-assisted productivity, automation, or decision support.
+- [Product Platform](https://github.com/amonehin/project-name) — Full-stack platform showcasing architecture, backend design, product thinking, and clean engineering practices.
+- [Developer Tooling](https://github.com/amonehin/project-name) — Project focused on improving developer experience, workflow automation, or internal productivity.
 <!-- END GENERATED CONTENT -->
 
 ## Current Focus
