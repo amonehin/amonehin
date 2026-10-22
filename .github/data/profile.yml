@@ -1,0 +1,21 @@
+profile:
+  username: amonehin
+  name: Amonehin
+  portfolio: https://your-portfolio.com
+  linkedin: https://linkedin.com/in/your-profile
+  email: your.email@example.com
+
+projects:
+  - name: AI Workflow Project
+    url: https://github.com/amonehin/project-name
+    description: Product or workflow that demonstrates AI-assisted productivity, automation, or decision support.
+  - name: Product Platform
+    url: https://github.com/amonehin/project-name
+    description: Full-stack platform showcasing architecture, backend design, product thinking, and clean engineering practices.
+  - name: Developer Tooling
+    url: https://github.com/amonehin/project-name
+    description: Project focused on improving developer experience, workflow automation, or internal productivity.
+
+dashboard:
+  max_recent_prs: 5
+  max_recent_commits: 5
