@@ -2,8 +2,6 @@
 
 AI-native senior developer building practical, scalable, and high-impact software products with a strong focus on product thinking, architecture, and modern engineering workflows.
 
-I design systems that blend clean software craftsmanship with AI-assisted development, automation, and rapid iteration. My work spans product strategy, backend and frontend engineering, system design, and AI-enabled workflows that help teams move faster without sacrificing quality.
-
 ## About Me
 - 🧠 AI-native developer mindset
 - 🏗️ Senior-level product and platform engineering
@@ -27,7 +25,6 @@ I design systems that blend clean software craftsmanship with AI-assisted develo
 - Human-in-the-loop product experiences
 
 ### Stack
-#### Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -62,21 +59,18 @@ I design systems that blend clean software craftsmanship with AI-assisted develo
 - Developer tooling and operational systems
 - Data-driven user experiences and business-facing products
 
-## Featured Work
-### AI Workflow Project
-[Project Name](https://github.com/amonehin/project-name)
+## Live Work Dashboard
 
-A product or workflow that demonstrates AI-assisted productivity, automation, or decision support.
+<!-- START GENERATED CONTENT -->
+## Recent Pull Requests
+{{recent_prs}}
 
-### Product Platform
-[Project Name](https://github.com/amonehin/project-name)
+## Recent Commits
+{{recent_commits}}
 
-A full-stack platform showcasing architecture, backend design, product thinking, and clean engineering practices.
-
-### Developer Tooling or Automation
-[Project Name](https://github.com/amonehin/project-name)
-
-A project focused on improving developer experience, workflow automation, or internal productivity.
+## Featured Projects
+{{featured_projects}}
+<!-- END GENERATED CONTENT -->
 
 ## Current Focus
 - Building AI-enabled product experiences
